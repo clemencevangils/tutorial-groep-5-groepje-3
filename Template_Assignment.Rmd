@@ -41,11 +41,10 @@ Use APA referencing throughout your document. [Here's a link to some explanation
 
 ## 1.1 Describe the Social Problem
 
-Include the following:
+The GDP-Happiness Disconnect\
+Governments often use GDP as a measure of how well a society is doing. Data from the WHR (World Happiness Report) shows that a growth in GDP does not automatically mean an increase in the happiness of the citicens
 
-- Why is this relevant?
-
-- ... its important
+... its important
 
 - 
 
