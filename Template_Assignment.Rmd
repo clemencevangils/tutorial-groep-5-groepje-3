@@ -53,8 +53,8 @@ Why this is relevant
 - The Easterlin Paradox\
   After basic needs are met, happiness depends on non-economic factors. Things like social support, public safety and freedom matter a lot more than extra wealth.
 
-Wealth inequality\
-GDP measures total wealth per citizen, but not how it is shared. If economic growth only benefits a small elite group while the cost of living for the majority of people rises, overall happiness will drop
+- Wealth inequality\
+  GDP measures total wealth per citizen, but not how it is shared. If economic growth only benefits a small elite group while the cost of living for the majority of people rises, overall happiness will drop
 
 # Part 2 - Data Sourcing
 
