@@ -1,9 +1,4 @@
----100
-title: "Template"
-author: "Studentnames and studentnumbers here"
-date: "`r Sys.Date()`"
-output: pdf_document
----
+---100 title: "Template" author: "Studentnames and studentnumbers here" date: "`r Sys.Date()`" output: pdf_document ---
 
 # Set-up your environment
 
@@ -21,18 +16,28 @@ require(yaml)
 
 # Title Page
 
-Include your names\
-Koen Thomas Tim Timo Daniel
+Teammembers:\
+Koen Damen ()
 
-Include the tutorial group number 5 1351234135
+Thomas Dop (2898269)
 
-Include your tutorial lecturer's name
+Tim de Marez Oyens ()
+
+Timo Bakker (2863621)
+
+Daniel Ferrier ()
+
+Clémence van Gils ()
+
+Tutorial 5 Group 3
+
+Tutorial lecturer: Simon Loop
 
 # Part 1 - Identify a Social Problem
 
 Use APA referencing throughout your document. [Here's a link to some explanation.](https://www.mendeley.com/guides/apa-citation-guide/)
 
-## 1.1 Describe the Social Problem 
+## 1.1 Describe the Social Problem
 
 Include the following:
 
@@ -42,7 +47,7 @@ Include the following:
 
 # Part 2 - Data Sourcing
 
-## 2.1 Load in the data 
+## 2.1 Load in the data
 
 Preferably from a URL, but if not, make sure to download the data and store it in a shared location that you can load the data in from. Do not store the data in a folder you include in the Github repository!
 
