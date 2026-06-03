@@ -17,7 +17,7 @@ require(yaml)
 # Title Page
 
 Teammembers:\
-Koen Damen ()
+Koen Damen (2889378)
 
 Thomas Dop (2898269)
 
@@ -45,7 +45,9 @@ Include the following:
 
 - Why is this relevant?
 
-- ...
+- ... its important klasdjf;laksfdja;lsdfjl
+
+- 
 
 # Part 2 - Data Sourcing
 
